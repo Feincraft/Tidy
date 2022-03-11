@@ -14,7 +14,9 @@ Color it as you like and place it wherever you want.
 * Drag with the mouse or with the arrow keys
 * Hold Shift for precise movement
 * Double-click to change colors
+* Press Esc to close (when widget is in focus)
 
 ### Upcoming
 * Control playback from the widget
 * Transparent background
+* Auto-hide on playback pause
