@@ -10,8 +10,11 @@ Color it as you like and place it wherever you want.
 
 ![img](https://github.com/Feincraft/Tidy/blob/main/siPZQYA4gs.gif?raw=true)
 
-Drag with the mouse or with the arrow keys. Hold Shift for precise movement.
+### Controls
+* Drag with the mouse or with the arrow keys
+* Hold Shift for precise movement
+* Double-click to change colors
 
-### FAQ
-* Can I control playback from the widget? 
-Working on it.
+### Upcoming
+* Control playback from the widget
+* Transparent background
