@@ -3,7 +3,7 @@ Music and audio widget.
 
 
 I love listening to music while working. Now I also know what I'm listening to.
-![img](https://github.com/Feincraft/Tidy/blob/main/YSFFlmKE3K.gif?raw=true)
+![img](https://github.com/Feincraft/Tidy/blob/main/oXZEu1YFxd.gif?raw=true)
 The widget shows the "Now Playing" using the Windows API, so it works regardless of the player.
 
 Color it as you like and place it wherever you want.
