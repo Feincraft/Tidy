@@ -8,7 +8,7 @@ The widget shows the "Now Playing" using the Windows API, so it works regardless
 
 Color it as you like and place it wherever you want.
 
-![img](https://github.com/Feincraft/Tidy/blob/main/oXZEu1YFxd.gif?raw=true)
+![img](https://github.com/Feincraft/Tidy/blob/main/siPZQYA4gs.gif?raw=true)
 
 ### Controls
 * Drag with the mouse or with the arrow keys
